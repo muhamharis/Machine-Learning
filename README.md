@@ -1,2 +1,2 @@
-# kaggle-challenges
-solutions to kaggle challenges i have solved
+# kaggle-competitions
+kaggle competitions submission
