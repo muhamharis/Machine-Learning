@@ -1,2 +1,2 @@
-# kaggle-competitions
-kaggle competitions submission
+# machine-learning
+machine learning problems
