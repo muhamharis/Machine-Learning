@@ -10,6 +10,7 @@ The purpose of this project is __to build/maintain a predictive model on each of
 * Data Visualization
 * Pre-processing
 * Feature Selection
+* Hyperparameter Tuning
 * Machine Learning
 * Ensemble Methods
 * etc.
